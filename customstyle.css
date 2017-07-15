@@ -1,0 +1,42 @@
+.customDiv{
+	margin-top: 50px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 100px;
+	min-height: 300px;
+	background-color: silver;
+	text-align: center;
+	vertical-align: middle;
+	font-size: large;
+}
+
+#border {
+	border: 2px solid red
+}
+
+
+#description {
+	margin-right: 0px;
+	margin-bottom: 100px;
+	height: 163.14px;
+	font-size: large;
+	text-align: center;
+	background-color: silver;	
+}
+
+#features {
+	height: 163.14px;
+	font-size: large;
+	text-align: center;
+	background-color: silver;
+}
+
+#joinbutton {
+	margin: 50px;
+	margin-top: 120px;
+	height: 50px;
+	font-size: large;
+	text-align: center;
+	vertical-align: middle;
+	background-color: silver;
+}
