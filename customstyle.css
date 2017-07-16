@@ -1,17 +1,21 @@
 .customDiv{
 	margin-top: 50px;
-	margin-left: 0px;
-	margin-right: 0px;
 	margin-bottom: 100px;
 	min-height: 300px;
+	margin-right: -15px;
 	background-color: silver;
 	text-align: center;
 	vertical-align: middle;
 	font-size: large;
+	
 }
 
 #border {
 	border: 2px solid red
+}
+
+#scrollfix {
+	width: 100%;
 }
 
 
